@@ -1,4 +1,5 @@
 //Problem: Shortest Path in Binary Matrix(LeetCode)
+//Wgt is 1 for ALL EDGES So That's why BFS is used
 class Solution {
 public:
     int row, col;
